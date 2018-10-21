@@ -1,4 +1,4 @@
-var number = 1
-function add1(){
-  return number += 1
-}
+var a = 1
+var b = 2
+
+console.log(a + b)
